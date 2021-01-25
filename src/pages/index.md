@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Auto trading is being easy
-    subtitle: 'with iQbot '
+    subtitle: >-
+      with iQbot you can build amazing strategies easly for auto trading on
+      iqoption
     actions:
       - label: Learn More
         url: /features
