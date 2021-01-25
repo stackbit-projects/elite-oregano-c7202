@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Auto trading is being easy
-    subtitle: okokoko
+    subtitle: ''
     actions:
       - label: Learn More
         url: /features
